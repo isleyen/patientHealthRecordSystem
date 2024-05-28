@@ -19,6 +19,7 @@ Asıl değinmemiz gereken yerlerden birisi de hasta sayısının sürekli günce
 ![image](https://github.com/isleyen/patientHealthRecordSystem/assets/136992260/8ba93aff-64a2-46de-ba21-b13c0e42e8b2)
 
 (hasta2 bilgileri rastgele atanmıştır siz de ratgele değerler atayıp uygulamayı test edebilirsiniz.)
+
 Burada 5 adet hasta var ve ben 1. hastanın bilgilerini ekrana çıktı olarak almak istediğimde:
 
 ![image](https://github.com/isleyen/patientHealthRecordSystem/assets/136992260/ce15fec4-3dc2-4f70-8a28-c0a826aa01b0)
