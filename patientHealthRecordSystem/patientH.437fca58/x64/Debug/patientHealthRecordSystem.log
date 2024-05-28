@@ -1,0 +1,9 @@
+﻿  BMI.cpp
+  hasta.cpp
+  main.cpp
+  nabiz.cpp
+C:\Users\ahmet\source\repos\patientHealthRecordSystem\main.cpp(10,6): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+C:\Users\ahmet\source\repos\patientHealthRecordSystem\nabiz.cpp(43,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\source\repos\patientHealthRecordSystem\nabiz.cpp(44,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  patientHealthRecordSystem.vcxproj -> C:\Users\ahmet\source\repos\patientHealthRecordSystem\x64\Debug\patientHealthRecordSystem.exe
